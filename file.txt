@@ -1,2 +1,0 @@
-1. This is line 1 for merge-resolved
-2. This is line 2 for merge-resolved
