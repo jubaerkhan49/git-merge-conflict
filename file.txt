@@ -1,2 +1,1 @@
-Now merge conflict will occur
-what should i do now?
+1. This is line 1 for branch-1
